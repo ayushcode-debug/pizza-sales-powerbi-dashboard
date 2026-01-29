@@ -1,46 +1,45 @@
-📊 Pizza Sales Analysis Dashboard (Power BI)
+# 🍕 Pizza Sales Power BI Dashboard
 
-🔹 Overview
+This project analyzes pizza sales performance using **Power BI**.
+It focuses on revenue, order volume, pizza size trends, and time-based insights.
 
-This project is an interactive Power BI dashboard built to analyze pizza sales data.
-It provides insights into revenue performance, order volume, customer demand, and time-based trends.
+---
 
-🔹 Key Features
+## 📊 Dashboard Overview
 
-   * KPI tracking: Total Revenue, Total Orders, Total Pizzas Sold
+### 🔹 Overview Page
+![Overview Page](screenshots/overview_page.png)
 
-   * Revenue analysis by pizza category and size
+---
 
-   * Sales distribution using pie chart
+### 🔹 Time Analysis Page
+![Time Analysis Page](screenshots/time_analysis_page.png)
 
-   * Time analysis: monthly trends, quarterly revenue, hourly order patterns
+---
 
-   * Weekday vs weekend comparison
+## 📁 Files in this Repository
+- `pizza sales dashboard.pbix` → Power BI dashboard file  
+- `screenshots/` → Dashboard screenshots  
+- `README.md` → Project documentation  
 
-   * Interactive slicers for category and size filtering
+---
 
-🔹 Tools Used
+## 🔧 Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
 
-   * Power BI Desktop
+---
 
-   * DAX (Measures & Calculations)
+## 📌 Key Insights
+- **Classic pizzas** generate the highest revenue  
+- **Large (L)** size pizzas are the most popular  
+- **Weekdays** have higher order volume than weekends  
+- Peak order hours are in the **afternoon & evening**
 
-   * Data Modeling
+---
 
-   * Data Visualization
+## 👤 Author
+**Ayush Bhardwaj**
 
-🔹 Dashboard Preview
-
-   * Overview Page
-
-
-   * Time Analysis Page
-
-
-🔹 How to Use
-
-Download the .pbix file
-
-Open it using Power BI Desktop
-
-Explore insights using slicers and interactive visuals
